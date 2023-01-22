@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/my-netflix/static/js/main.c3b855ee.js",
+    "static/js/787.cb7a42a8.chunk.js": "/my-netflix/static/js/787.cb7a42a8.chunk.js",
+    "index.html": "/my-netflix/index.html",
+    "main.c3b855ee.js.map": "/my-netflix/static/js/main.c3b855ee.js.map",
+    "787.cb7a42a8.chunk.js.map": "/my-netflix/static/js/787.cb7a42a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c3b855ee.js"
+  ]
+}
